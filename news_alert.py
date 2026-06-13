@@ -1,4 +1,4 @@
-import feedparser
+ㅈimport feedparser
 import requests
 import os
 from datetime import datetime
@@ -15,12 +15,17 @@ KEYWORDS = [
     "기후부",
     "환경청",
     "환경공단",
-    "국립공원공단"
-    "매립지공사"
-    "한국수력원자력"
-    "국립생태원"
-    "한국환경기술원"
-    "환경보전원"
+    "국립공원공단",
+    "매립지공사",
+    "한국수력원자력",
+    "국립생태원",
+    "한국환경기술원",
+    "환경보전원",
+    "한전",
+    "동서발전",
+    "남부발전",
+    "남동발전",
+    "중부발전"
   
 ]
 
